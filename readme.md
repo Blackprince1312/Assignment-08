@@ -1,18 +1,4 @@
-# 10/15/15 
 
-___This homework is due by 8am, on 10/19/15___
-
-## Objectives
-
-### Learning Objectives
-
-After completing this assignment, you should:
-
-* Understand objects
-* Understand arrays and loops
-* Ability to breakdown multiple steps into a series of statements in JS
-
-#### Performance Objectives
 
 After completing this assignment, you be able to effectively use
 
