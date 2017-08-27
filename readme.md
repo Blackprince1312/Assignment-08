@@ -1,39 +1,11 @@
-
+Performance Objectives
 
 After completing this assignment, you be able to effectively use
 
-* `array.forEach()`
-* `array.map()`
-* `array.filter()`
-* `array.reduce()`
-
-## Details
-
-### Deliverables
-
-- A repo containing at least:
-  - `main.js`
-  - `items.js`
-  - `index.html`
-  - `main.css`
-
-- A link to *both* deployed project and repo
-
-### Requirements
-
-- No JavaScript errors or warnings
-- The answers on the screen MUST match what is below
-
-## Normal Mode
-
-1. Use the attached files`items.js` and `index.html` and add it to a new project
-2. Make sure to create a `main.js` file to put your code in
-3. Using the `items` variable, use `array.map()`, `array.reduce()`, `array.forEach`, and `array.filter()` to help you through the following questions.
-4. Using the `innerHTML()` method, place your answers in the correct element in the `index.html` file.
-5. Make your `index.html` page look exactly like provided `mockup.png`
-6. Deploy this to GH Pages
-
-> Make sure the output matches the answers below each question. Make sure to comment your code as you walk through your though process.
+array.forEach()
+array.map()
+array.filter()
+array.reduce()
 
 #### Questions & Answers
 
